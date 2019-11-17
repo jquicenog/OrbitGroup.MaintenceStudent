@@ -1,0 +1,8 @@
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.deps.json
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.dll
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.pdb
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.csproj.CoreCompileInputs.cache
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.AssemblyInfoInputs.cache
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.AssemblyInfo.cs
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.dll
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Core\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.pdb

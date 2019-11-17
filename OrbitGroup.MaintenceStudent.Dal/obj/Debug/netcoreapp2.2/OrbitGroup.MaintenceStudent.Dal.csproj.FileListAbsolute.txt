@@ -1,0 +1,13 @@
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.deps.json
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.dll
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.csprojAssemblyReference.cache
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.csproj.CoreCompileInputs.cache
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.AssemblyInfoInputs.cache
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.AssemblyInfo.cs
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.pdb
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.dll
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\bin\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Core.pdb
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.csproj.CopyComplete
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.dll
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\obj\Debug\netcoreapp2.2\OrbitGroup.MaintenceStudent.Dal.pdb
+D:\MGlobal\OrbitGroup\OrbitGroup.MaintenceStudent\OrbitGroup.MaintenceStudent.Dal\bin\Debug\netcoreapp2.2\sample.db3
